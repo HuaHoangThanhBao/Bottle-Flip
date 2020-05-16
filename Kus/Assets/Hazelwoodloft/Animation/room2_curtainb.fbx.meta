@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: cad3baa030e224d46be0239392030cbd
+labels:
+- photo-real
+- low-poly
+- urban
+- realistic
+- modern
+- loft
+- contemporary
+- detail
+- architecture
+- furniture
+- kithen
+- room
+- modular
+- penthouse
+- household
+- wood
+- design
+- minimal
+- home
+- apartment
+- animated
+- high-end
+- luxurious
+- cupboards
+- lounge
+- couch
+- sofa
+- livingroom
+- spots
+- table
+- chair
+- lights
+- sink
+- statue
+- curtain
+- blinds
+- tv
+- chimney
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: room2_curtainA:joint1
+    100004: room2_curtainA:joint12
+    100006: room2_curtainA:joint13
+    100008: room2_curtainA:joint17
+    100010: room2_curtainA:joint18
+    100012: room2_curtainA:joint19
+    100014: room2_curtainA:joint2
+    100016: room2_curtainA:joint20
+    100018: room2_curtainA:joint21
+    100020: room2_curtainA:joint22
+    100022: room2_curtainA:joint23
+    100024: room2_curtainA:joint24
+    100026: room2_curtainA:joint25
+    100028: room2_curtainA:joint26
+    100030: room2_curtainA:joint27
+    100032: room2_curtainA:joint28
+    100034: room2_curtainA:joint29
+    100036: room2_curtainA:joint3
+    100038: room2_curtainA:joint30
+    100040: room2_curtainA:joint31
+    100042: room2_curtainA:joint39
+    100044: room2_curtainA:joint4
+    100046: room2_curtainA:joint43
+    100048: room2_curtainA:joint5
+    100050: room2_curtainA:joint51
+    100052: room2_curtainA:joint54
+    100054: room2_curtainA:joint55
+    100056: room2_curtainA:joint6
+    100058: room2_curtainA:joint7
+    100060: room2_curtainA:joint8
+    100062: room2_curtainA:joint9
+    100064: room2_curtainA:room2_curtainA
+    100066: joint57
+    100068: joint58
+    100070: joint59
+    100072: joint60
+    100074: joint61
+    100076: joint62
+    100078: joint63
+    100080: joint64
+    100082: joint65
+    100084: joint66
+    100086: joint67
+    100088: joint68
+    100090: joint69
+    100092: joint70
+    100094: joint71
+    100096: joint72
+    100098: joint73
+    100100: joint74
+    100102: joint75
+    100104: joint76
+    100106: joint77
+    100108: joint78
+    100110: joint81
+    100112: joint82
+    100114: joint83
+    100116: joint85
+    100118: joint86
+    100120: joint87
+    100122: joint88
+    100124: joint89
+    100126: joint90
+    100128: room3_curtainB
+    400000: //RootNode
+    400002: room2_curtainA:joint1
+    400004: room2_curtainA:joint12
+    400006: room2_curtainA:joint13
+    400008: room2_curtainA:joint17
+    400010: room2_curtainA:joint18
+    400012: room2_curtainA:joint19
+    400014: room2_curtainA:joint2
+    400016: room2_curtainA:joint20
+    400018: room2_curtainA:joint21
+    400020: room2_curtainA:joint22
+    400022: room2_curtainA:joint23
+    400024: room2_curtainA:joint24
+    400026: room2_curtainA:joint25
+    400028: room2_curtainA:joint26
+    400030: room2_curtainA:joint27
+    400032: room2_curtainA:joint28
+    400034: room2_curtainA:joint29
+    400036: room2_curtainA:joint3
+    400038: room2_curtainA:joint30
+    400040: room2_curtainA:joint31
+    400042: room2_curtainA:joint39
+    400044: room2_curtainA:joint4
+    400046: room2_curtainA:joint43
+    400048: room2_curtainA:joint5
+    400050: room2_curtainA:joint51
+    400052: room2_curtainA:joint54
+    400054: room2_curtainA:joint55
+    400056: room2_curtainA:joint6
+    400058: room2_curtainA:joint7
+    400060: room2_curtainA:joint8
+    400062: room2_curtainA:joint9
+    400064: room2_curtainA:room2_curtainA
+    400066: joint57
+    400068: joint58
+    400070: joint59
+    400072: joint60
+    400074: joint61
+    400076: joint62
+    400078: joint63
+    400080: joint64
+    400082: joint65
+    400084: joint66
+    400086: joint67
+    400088: joint68
+    400090: joint69
+    400092: joint70
+    400094: joint71
+    400096: joint72
+    400098: joint73
+    400100: joint74
+    400102: joint75
+    400104: joint76
+    400106: joint77
+    400108: joint78
+    400110: joint81
+    400112: joint82
+    400114: joint83
+    400116: joint85
+    400118: joint86
+    400120: joint87
+    400122: joint88
+    400124: joint89
+    400126: joint90
+    400128: room3_curtainB
+    4300000: room2_curtainA:room2_curtainA
+    4300002: room3_curtainB
+    7400000: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: room2_curtainA:room2_curtainA
+    13700002: room3_curtainB
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 238
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
